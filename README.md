@@ -19,4 +19,18 @@ A specialized tool that Has Useful information such as, Your CPU/Model,RAM/Size,
 1. Download our Latest Release File
 - Click **Releases** → Then Download the `CorePulse.zip` Folder.
 - Click On Extract to Extract everything.
-![Alt Text](C:\Users\vakov\OneDrive\Pictures\Screenshots\Screenshot 2026-06-09 183046.png)
+
+2. Run The .bat File.
+On Windows, run `CorePulse.bat.`
+
+3. Options
+You have Options Like:
+(1) System Specifications.
+(2) Live Monitor.
+(3) Checking for Updates.
+(4) And Utility Tools.
+
+To Select on Option Just Type the **Number** In the Command Line.
+
+## 🙏 Thank you for Using CorePulse.
+
