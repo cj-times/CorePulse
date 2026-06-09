@@ -17,4 +17,5 @@ A specialized tool that Has Useful information such as, Your CPU/Model,RAM/Size,
 
 ## ✨ How to Use
 1. Download our Latest Release File
-- Click **Releases** → 
+- Click **Releases** → Then Download the `CorePulse.zip` Folder.
+- Click On Extract to Extract everything.
