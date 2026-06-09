@@ -16,4 +16,5 @@ A specialized tool that Has Useful information such as, Your CPU/Model,RAM/Size,
 * **Simple Setup:** Get started in minutes with straightforward installation and minimal dependencies.
 
 ## ✨ How to Use
-1. Download our Latest Realise 
+1. Download our Latest Release File
+- Click **Releases** → 
